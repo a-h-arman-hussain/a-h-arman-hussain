@@ -4,7 +4,7 @@
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░░ INTRO TITLE + TYPE ANIMATION ░░░░░░░░░░░░░░░░░ -->
-<h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">A H Arman Hussain</span></h1>
+<h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">MOHAMMED ABDUL HAKIM ARMAN</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+Tailwind+Expert;Crafting+Modern+Web+Experiences" />
