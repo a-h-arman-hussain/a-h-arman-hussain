@@ -106,11 +106,14 @@ Check the pinned repositories below 👇
 </div>
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=amdadislam01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/amdadislam01?tab=followers">
-    <img src="https://img.shields.io/github/followers/amdadislam01?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=a-h-arman-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+  <a href="https://github.com/a-h-arman-hussain?tab=followers">
+    <img src="https://img.shields.io/github/followers/a-h-arman-hussain?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/amdadislam01/amdadislam01">
-    <img src="https://img.shields.io/github/stars/amdadislam01?style=social" alt="GitHub Stars"/>
+
+  <a href="https://github.com/a-h-arman-hussain/a-h-arman-hussain">
+    <img src="https://img.shields.io/github/stars/a-h-arman-hussain?style=social" alt="GitHub Stars"/>
   </a>
 </p>
+
